@@ -93,3 +93,4 @@ sw.*
 
 # added by The Afancy Authors (https://github.com/afancylab/data.afancy.org/graphs/contributors)
 yarn.lock
+nuxt.config.js
