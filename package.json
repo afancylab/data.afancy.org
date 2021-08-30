@@ -1,7 +1,8 @@
 {
-  "name": "database-of-countries-website",
+  "name": "@afancylab/data",
   "version": "1.0.0",
-  "private": true,
+  "repository": "https://github.com/afancy-org/afancy.git",
+  "author": "The Afancy Authors (https://github.com/afancylab/data.afancy.org/graphs/contributors)",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
