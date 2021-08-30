@@ -1,7 +1,8 @@
 {
-  "name": "data.afancy.org",
+  "name": "@afancylab/data.afancy.org",
   "version": "1.0.0",
   "private": true,
+  "author": "The Afancy Authors (https://github.com/afancylab/data.afancy.org/graphs/contributors)",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
