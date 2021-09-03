@@ -1,5 +1,5 @@
 const APP_NAME    = 'Data - By Afancy';
-const APP_URL     = "https://data.afancy.org";   // for dev, http://localhost:3000
+const APP_URL     = "https://data.afancy.org";   // for dev, http://data.afancy.org.localhost:9002
 const APP_Version = "v2.1.0";
 
 
