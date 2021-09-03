@@ -56,6 +56,6 @@ module.exports = {
     },
   },
   plugins: [
-    require('@afancy/afancy')
+    require('@afancylab/afancy')
   ]
 }
